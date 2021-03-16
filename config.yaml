@@ -21,7 +21,7 @@ params:
 
   show: true
   netlify: false
-  action: ""
+  action: "/process.php"
   method: "POST"
   section: "Contact me!"
   disclaimer: "Contact Us"
