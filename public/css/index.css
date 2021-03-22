@@ -30,6 +30,15 @@ input {
     font-size: var(--text);
     padding: 1.15rem 1.25rem;
 }
+
+select{
+    background-color: white;
+    border: none;
+    color: black;
+    font-size: var(--text);
+    padding: 1.15rem 1.25rem;
+}
+
 .btn {
     background-color: white;
     border: 1px solid white;

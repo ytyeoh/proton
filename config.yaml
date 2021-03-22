@@ -24,7 +24,7 @@ params:
   action: "process.php"
   method: "POST"
   section: "Contact me!"
-  disclaimer: "Contact Us"
+  disclaimer: "Register Your Interest"
   inputNameName: "electricMing"
   inputNameLabel: "Name"
   inputNamePlaceholder: "Your Name"
@@ -34,6 +34,9 @@ params:
   inputPhoneName: "electricTalk"
   inputPhoneLabel: "Phone"
   inputPhonePlaceholder: "Your Phone"
+  inputCarName: "electricCar"
+  inputCarLabel: "Car"
+  inputCarPlaceholder: "Car"
   SubmitValue: "Submit"
 
   # Navbar Menus
